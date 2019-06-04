@@ -1,11 +1,15 @@
 """
 使用requests实现首次请求，然后获取页面script脚本生成得 qz 参数 和 获取 响应的 cookies
 """
+import os
+import sys
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(os.path.split(rootPath)[0])
 import json
 import re
 import requests
 from requests.cookies import RequestsCookieJar
-
 from SplashTrademark.encryption.generate_parameter import GenerateParameter
 
 
@@ -16,9 +20,19 @@ first_url = 'https://www.wipo.int/tools/en/gsearch.html?cx=016458537594905406506
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
                   'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36',
+    'Referer': 'https://www.wipo.int/portal/en/index.html',
+    'Host': 'www.wipo.int'
 }
-MAX_PAGE_NUM = 3
-FILE_PATH = r'E:\SplashTrademark\SplashTrademark\list_urls\urs.json'
+headers2 = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                  'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36',
+    'Referer': 'https://www.wipo.int/tools/en/gsearch.html?cx=016458537594905406506%3Ahmturfwvzzq&cof=FORID%3A11&q=',
+    'Host': 'www.wipo.int'
+}
+MAX_PAGE_NUM = 79
+
+
+FILE_PATH = '/root/project/trademark/SplashTrademark/list_urls/urls.json'
 # 创建session对象
 s = requests.Session()
 # jar = RequestsCookieJar
@@ -45,7 +59,7 @@ def get_qi():
     :return:
     """
     # 请求页面
-    result = s.get(base_url, headers=headers)
+    result = s.get(base_url, headers=headers2)
     # 转换成HTML
     html = parse_response(result)
     # print(html)

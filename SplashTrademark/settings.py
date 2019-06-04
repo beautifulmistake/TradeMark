@@ -28,7 +28,7 @@ ROBOTSTXT_OBEY = False
 # Configure a delay for requests for the same website (default: 0)
 # See https://doc.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 3
+# DOWNLOAD_DELAY = 3
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
@@ -118,7 +118,7 @@ LOG_LEVEL = 'DEBUG'     # 日志级别
 REDIS_HOST = '127.0.0.1'    # 连接本机
 REDIS_PORT = '6379'   # 端口
 REDIS_PARAMS = {
-    # 'password': 'your_password',
+    'password': 'pengfeiQDS',
     'db': 0
 }   # 密码一般不设置，使用数据0
 
@@ -133,7 +133,7 @@ TOTAL_PAGE_NUM = 3
 
 # 以下是在有图片下载的时候添加配置信息
 
-IMAGES_STORE = 'E:\\SplashTrademark'    # 添加图片下载路径
+IMAGES_STORE = '/root/project/trademark'    # 添加图片下载路径
 IMAGES_URLS_FIELD = 'image_urls'    # 指定存放图片下载链接的字段
 IMAGES_RESULT_FIELD = 'images'      # 文件结果所在的字段
 
