@@ -1,2 +1,96 @@
-# TradeMark
-å•†æ ‡ç½‘æ•°æ®æŠ“å–ï¼ˆä¸»è¦æ˜¯ç ´è§£JsåŠ å¯†å’Œå›¾ç‰‡è·¯å¾„çš„ä¿®æ”¹ï¼‰
+#### ÇëÇó·ÖÎö²¿·Ö
+
+
+https://www.wipo.int/branddb/jsp/data.jsp?  KEY=CHTM.052642019  &   IMG=20/19/052642019-th.jpg  &   TYPE=jpg    &   qi=0-bBTsf96ntvvc0qeVUZMmo89GQ5zdgFZCMm+9szGtm18=
+
+https://www.wipo.int/branddb/jsp/data.jsp?  KEY=CHTM.052832019  &   IMG=20/19/052832019-th.jpg  &   TYPE=jpg    &   qi=0-bBTsf96ntvvc0qeVUZMmo89GQ5zdgFZCMm+9szGtm18=
+
+https://www.wipo.int/branddb/jsp/data.jsp?  KEY=CHTM.052492019  &   IMG=20/19/052492019-th.jpg  &   TYPE=jpg    &   qi=0-bBTsf96ntvvc0qeVUZMmo89GQ5zdgFZCMm+9szGtm18=
+
+
+
+#### ÇëÇó·ÖÎö½á¹û
+
+
+* getÇëÇó
+
+* ÇëÇó²ÎÊýµÄ¹¹ÔìÒÔ¼°À´Ô´£º
+   
+  1¡¢https://www.wipo.int/branddb/jsp/data.jsp?------>ÍøÒ³ÖÐ²éÑ¯·ÖÎö
+   
+  2¡¢KEY ------>ID  £¨´ÓÁÐ±íÒ³µÄÊý¾ÝÖÐ»ñÈ¡£¬´ËÖµÒ»¶¨´æÔÚ£©
+   
+  3¡¢IMG ------>IMG £¨´ÓÁÐ±íÒ³µÄÊý¾ÝÖÐ»ñÈ¡£¬´ËÖµÔÚÃ»ÓÐÍ¼Æ¬µÄÊ±ºò²»´æÔÚ£©------>ÎÞ´ËÖµµÄÊ±ºòÒ²Òª¸³ÖµÎª¿Õ£¬ÒÔ±ãºóÐøÄÜÅÐ¶Ï³öÎÞÍ¼Æ¬
+   
+  4¡¢TYPE=jpg       (¹Ì¶¨Öµ)
+   
+  5¡¢qi---------->  ´ÓÁÐ±íÒ³µÄÊý¾ÝÖÐ»ñÈ¡£©
+
+
+
+#### ÌØ±ðÒª½â¾öµÄÒ»¸öÎÊÌâ
+
+image_urls ÔÚÃ»ÓÐµÄÇé¿öÏÂÒ²Òª½øÐÐ¸³¿ÕÖµµÄ²Ù×÷£¬²»È»ÔÚimagepipelineÖÐ¼ä¼þÊ±»á±¨´í£¬È»ºó¸ÃÌõÊý¾Ý»á¶ªÊ§
+
+
+
+#### µ÷ÊÔÖÐ·¢ÏÖµÄÎÊÌâ
+item ¶¨ÒåµÄ×Ö¶ÎÖÐ£ºimage_paths ºÍ image_urls »á±»¼ÇÂ¼ÔÚ×îÖÕµÄÎÄ¼þ£¨Êý¾Ý¿â£©Ö®ÖÐ
+
+
+
+#### ÔÚ±àÂëÒÔ¼°µ÷ÊÔÖÐÓö¼ûµÄÎÊÌâ
+
+* Í¼Æ¬ÈçºÎÇëÇóµÄÎÊÌâ
+   
+  µÚÒ»ÖÖ·½°¸£º´ÓÏêÇéÒ³Àï½âÎö»ñÈ¡£¬Ê×ÏÈ³¢ÊÔµÄÊÇÕâÖÖ·½Ê½£¬ÓÐÐ©ÎÞÍ¼Æ¬£¬ÐèÒª×öÅÐ¶Ï£¬ÓÐÍ¼Æ¬µÄÇëÇóURLÒ²²»ÊÇ¹Ì¶¨µÄ¸ñÊ½£¬¸øºóÆÚÍ¼Æ¬µÄÃüÃû´øÀ´ÁËÒ»¶¨µÄÂé·³
+   
+  µÚ¶þÖÖ·½°¸£º´ÓÁÐ±íÒ³»ñÈ¡µÄjsonÊý¾ÝÖÐ½âÎö³ö£ºID£¨KEY£©¡¢IMG£¨IMG£©¡¢qi(qi)µÈÐÅÏ¢¹¹Ôì³öÍ¼Æ¬µÄURL£¬ÔÚÍ¼Æ¬µÄÃüÃûÊ±Ê¹ÓÃID£¨°üº¬¹ú¼ÒºÍÉêÇëºó£¬¿ÉÎ¨Ò»¶¨Î»Ò»¸öÉÌ±ê£©
+
+
+* ½â¾öÍ¼Æ¬ÃüÃûµÄÎÊÌâ
+   
+  ½â¾ö·½°¸£º²Î¿¼ÉÏÒ»ÌõµÄµÚ¶þÖÐ·½°¸µÄË¼Â·
+
+
+* ´¦ÀíÏìÓ¦Îª403×´Ì¬ÂëµÄÇëÇó£¨ÔÚÖÐ¼ä¼þÖÐÔö¼Ó´¦ÀíµÄÂß¼­£¬Õâ¸öÇëÇóÒ»°ã·¢ÉúÔÚÇëÇóÏêÇéÒ³Ê±£¬getÇëÇó£©
+
+
+* ½â¾öÍ¼Æ¬ÏÂÔØÊ§°ÜµÄÎÊÌâ£¨²âÊÔÊ±¹²²É¼¯ÈýÒ³Êý¾Ý£¬4/25µÄÊ§°Ü±ÈÀý£©
+   
+  ÔÝÊ±²»Ö»ÈçºÎÔÚ·¢ÆðÍ¼Æ¬ÇëÇóµÄpipelineÖÐÊ¹ÓÃerrback·½·¨²¶»ñ´ïµ½ÖØÊÔ´ÎÊýºóÅ×³öµÄTCPÁ¬½Ó´íÎó£¬È»ºóÖØÐÂ¼ÓÈë¶ÓÁÐ
+   
+  ¹ÊÔÝÊ±²ÉÈ¡µÄ½â¾ö·½°¸Îª£¬±àÐ´Ò»¸öÖØÊÔÖÐ¼ä¼þÀ´´ïµ½Í¬ÑùµÄÐ§¹û£¨¾­²âÊÔ£¬¿ÉÒÔÍêÕûµÄ»ñÈ¡25/25Í¼Æ¬£©
+
+
+* ½â¾öÍ¼Æ¬ÏÂÔØÊ§°ÜÊ±¸ÃÌõitem»á±»¶ªÆúµÄÎÊÌâ£¨Í¼Æ¬ËäÈ»ÏÂÔØÊ§°Ü£¬µ«¸ÃÌõitem°üº¬ÉÌ±êµÄÏêÏ¸ÐÅÏ¢£¬¶ÔÎÒÃÇ¶øÑÔÊÇÓÐÓÃµÄÊý¾Ý£¬²»ÄÜ¶ªÆú)
+   
+  ½â¾ö·½°¸£ºÔÚitem_complted()·½·¨ÖÐÌí¼Ó¼´Ê¹image_pathÎª¿Õ£¬¸³ÓèÄ¬ÈÏÖµ£¬×îºó½«item·µ»Ø£¬±£Ö¤Êý¾Ý²»¶ªÊ§
+
+
+* ½â¾öÄ³ÌõitemÖÐ²»°üº¬Í¼Æ¬Ê±£¬»áÅ×³ö KeyValueErrorµÄÒì³££¬È»ºó¸ÃÌõÊý¾Ý»á±»¶ªÆúµÄÎÊÌâ
+   
+  ½â¾ö·½°¸£ºÔÚget_media_requests()ÖÐÔö¼Ó¶Ô image_url ÊÇ·ñÎª¿ÕµÄÂß¼­ÅÐ¶Ï
+
+
+* Ôö¼ÓerrbackµÄ´¦Àí²¿·Ö£¬´¦Àí¶àÖÖÒì³££¬·ÀÖ¹ÇëÇóµÄÒÅÂ©¶ø¶ªÊ§Êý¾Ý
+
+
+
+#### ÔËÐÐ·½·¨
+
+* ÏÈÔËÐÐprepareÄ£¿éÖÐµÄget_qi·½·¨--------->»áÍê³ÉËæ»ú×Ö·û´®qzµÄ»ñÈ¡£¬¼ÓÃÜ²ÎÊýqiµÄÉú³É£¬ÒÔ¼°cookiesºÍÏêÇéÒ³URLµÄÉú³É
+
+* ÔËÐÐscrapy_redis£¬Ëü»á¶ÁÈ¡keywordÎÄ¼þÏÂµÄ°üº¬URLÇëÇóµÄÎÄ¼þ£¬·¢ÆðÇëÇó£¬Õû¸öÅÀ³æ¿ªÊ¼ÔËÐÐ
+
+
+
+#### ´ýÓÅ»¯µÄ²¿·Ö
+
+* ÆÆ½â¼ÓÃÜµÄ²ÎÊýÖÐ¡°_¡±ÊÇ±ä»¯µÄ£¬Ä¿Ç°»¹²»ÖªÆä±ä»¯µÄÖÜÆÚ
+*ÒÀÕÕÄ¿Ç°µÄ·½·¨£¬µ÷ÊÔÖÐ·¢ÏÖcookies»¹ÊÇ¾ßÓÐÒ»¶¨µÄÓÐÐ§ÐÔ£¨»¹ÊÇ»á³öÏÖÇëÇóÏêÇéÒ³Ê§°Ü£¬ÁÐ±íÒ³Ã»ÎÊÌâ£©
+
+* ¼øÓÚÒÔÉÏµÄÇé¿ö£¬ºóÆÚÏ£ÍûÔö¼ÓÒ»¸öÈÎÎñ¶ÓÁÐ£¬°´ÐèÉú³É
+*²É¼¯µÄ²ßÂÔÎª£º½«×ÜÒ³ÊýÇÐ·ÖÔÚ²»Í¬µÄ·þÎñÆ÷ÉÏ½øÐÐ¶à¼¶×¥È¡£¨ÔÚÉú³ÉÏêÇéÒ³µÄURLÊ±£¬Õâ¸ö¿ÉÒÔ¿ØÖÆ£©
+
+* ×îÖÕÒªµÄ¾ÍÊÇÍøÕ¾µÄ¸üÐÂËÙÂÊÒª´óÓÚÎÒµÄ²É¼¯ËÙÂÊ£¬ÍøÕ¾Ã¿ÈÕ¶¼ÔÚ¸üÐÂ
